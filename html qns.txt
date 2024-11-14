@@ -1,0 +1,6 @@
+Qn2)Create a simple html webpage with links to three other pages.A profile page, a gallery page and a contact form page.On the gallery page include atleast 3 images with captions. and on the profile page use an html table to display basic information.
+
+Qn3)a) Create a new html file name iframe_practice.html
+    b) Add an iframe to embedd google into your webpage with a specified width 600px and height 400px.
+    c) Below this embed a youtube video using an iframe.(Choose any video url setting the width to 560px and height 315px)(Academic related videos).
+    d) Add captions or titles about each iframe to indicate what content is displayed.
